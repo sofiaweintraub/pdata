@@ -23,7 +23,7 @@ La recolección de datos se obtuvo a partir de una aplicación propia de un Ipho
 
 - Día
 - Tiempo Total: uso total del celular por día, tiempo en minutos
-- Las 6 aplicaciones más utilizadas (Instagram, WhatsApp, Spotify, TikTok, Safari, Photos)
+- Tiempo en las 6 aplicaciones más utilizadas (Instagram, WhatsApp, Spotify, TikTok, Safari, Photos): tiempo en minutos
 - Cantidad de PickUps: veces que agarro el celular
 - Cantidad de Notificaciones
 
