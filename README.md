@@ -18,7 +18,7 @@ El tema elegido y que voy a presentar en el día de la fecha consiste en poder m
 **Datos**
 
 Los datos se encuentran en tres *archivos.csv*:
-- El primero tiene toda la data recolectada:[DatosPersonales](DatosPersonales.csv)
+- El primero tiene toda la data recolectada: [DatosPersonales](DatosPersonales.csv)
 - El segundo sólo tiene la cantidad de minutos que estuve en cada aplicación, por día: [TidyDataMinutes](TidyDataMinutes.csv)
 - El tercero contiene la cantidad de Notificaciones y PickUps por día: [TidyDataCount](TidyDataCount.csv)
 
