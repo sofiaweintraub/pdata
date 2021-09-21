@@ -17,7 +17,10 @@ El tema elegido y que voy a presentar en el día de la fecha consiste en poder m
 
 **Datos**
 
-Los datos se encuentran en un [archivo.csv](DatosPersonales.csv)
+Los datos se encuentran en tres *archivos.csv*:
+- El primero tiene toda la data recolectada:[DatosPersonales](DatosPersonales.csv)
+- El segundo sólo tiene la cantidad de minutos que estuve en cada aplicación, por día: [TidyDataMinutes](TidyDataMinutes.csv)
+- El tercero contiene la cantidad de Notificaciones y PickUps por día: [TidyDataCount](TidyDataCount.csv)
 
 La recolección de datos se obtuvo a partir de una aplicación propia de un Iphone 11, llamada Screen Time. A partir de los datos brindados, yo extraje a mano aquellos que quería utilizar para el desarrollo del Trabajo Práctico, y los inserté de la siguiente manera:
 
