@@ -1,18 +1,17 @@
 ## VISUALIZACIÓN DE LA INFORMACIÓN
-**TRABAJO PRÁCTICO: VISUALIZANDO DATOS PERSONALES**
+**TRABAJO PRÁCTICO NÚMERO 1: VISUALIZANDO DATOS PERSONALES**
 
 ##
 
 **Título**
 
-USO DEL CELULAR CADA DÍA, POR SEMANA
+Uso del celular por día
 
 ##
 
 **Presentación del Tema**
 
 El tema elegido y que voy a presentar en el día de la fecha consiste en poder mostrar cuánto uso el celular por día, a lo largo de tres semanas.
-###### La recolección de datos comenzó el Lunes 23 de Agosto del 2021 y finalizó el Domingo 12 de Septiembre de 2021.
 
 ##
 
@@ -28,4 +27,4 @@ La recolección de datos se obtuvo a partir de una aplicación propia de un Ipho
 - Cantidad de PickUps: veces que agarro el celular
 - Cantidad de Notificaciones
 
-
+###### La recolección de datos comenzó el Lunes 23 de Agosto del 2021 y finalizó el Domingo 12 de Septiembre de 2021.
