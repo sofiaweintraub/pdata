@@ -36,5 +36,7 @@ Los datos se obtuvieron a partir de una herramienta propia de un Iphone 11, llam
 **Puntos a analizar y mostrar**
 
 Se quiere realizar un análisis de la cantidad de tiempo que utilizo el celular por día, pudiendo ver así cómo varía semana a semana. También, poder mostrar el tiempo que paso en las aplicaciones que más utilizo y cómo se relaciona el uso de las diferentes aplicaciones con el tiempo total de uso. 
+
 A modo de ejemplo, el siguiente gráfico:
+[](Grafico.png)
 
