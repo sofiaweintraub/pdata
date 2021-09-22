@@ -23,7 +23,7 @@ Los datos crudos se encuentran en tres *archivos.csv*:
 - El segundo sólo tiene la cantidad de minutos que estuve en cada aplicación, por día: [TidyDataMinutes](TidyDataMinutes.csv)
 - El tercero contiene la cantidad de Notificaciones y PickUps por día: [TidyDataCount](TidyDataCount.csv)
 
-Los datos se obtuvieron a partir de una aplicación propia de mi Iphone 11, llamada Screen Time. A partir de los datos brindados por dicha aplicación, yo extraje a mano aquellos que quería utilizar para el desarrollo del Trabajo Práctico, y los inserté de la siguiente manera:
+Los datos se obtuvieron a partir de una herramienta propia de un Iphone 11, llamada Screen Time. A partir de los datos brindados por dicha aplicación, yo extraje a mano aquellos que quería utilizar para el desarrollo del Trabajo Práctico, y los inserté de la siguiente manera:
 
 - Día
 - Tiempo Total: uso total del celular por día, tiempo en minutos
