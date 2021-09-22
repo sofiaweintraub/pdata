@@ -17,6 +17,7 @@ El tema elegido y que voy a presentar en el día de la fecha consiste en poder m
 
 **Datos**
 
+###### La recolección de datos comenzó el Lunes 23 de Agosto del 2021 y finalizó el Domingo 12 de Septiembre de 2021.
 Los datos crudos se encuentran en tres *archivos.csv*:
 - El primero tiene toda la data recolectada: [DatosPersonales](DatosPersonales.csv)
 - El segundo sólo tiene la cantidad de minutos que estuve en cada aplicación, por día: [TidyDataMinutes](TidyDataMinutes.csv)
@@ -29,8 +30,6 @@ La recolección de datos se obtuvo a partir de una aplicación propia de mi Ipho
 - Tiempo en las 6 aplicaciones más utilizadas (Instagram, WhatsApp, Spotify, TikTok, Safari, Photos): tiempo en minutos
 - Cantidad de PickUps: veces que agarro el celular
 - Cantidad de Notificaciones
-
-###### La recolección de datos comenzó el Lunes 23 de Agosto del 2021 y finalizó el Domingo 12 de Septiembre de 2021.
 
 ##
 
