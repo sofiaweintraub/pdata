@@ -22,7 +22,7 @@ Los datos se encuentran en tres *archivos.csv*:
 - El segundo sólo tiene la cantidad de minutos que estuve en cada aplicación, por día: [TidyDataMinutes](TidyDataMinutes.csv)
 - El tercero contiene la cantidad de Notificaciones y PickUps por día: [TidyDataCount](TidyDataCount.csv)
 
-La recolección de datos se obtuvo a partir de una aplicación propia de un Iphone 11, llamada Screen Time. A partir de los datos brindados, yo extraje a mano aquellos que quería utilizar para el desarrollo del Trabajo Práctico, y los inserté de la siguiente manera:
+La recolección de datos se obtuvo a partir de una aplicación propia de mi Iphone 11, llamada Screen Time. A partir de los datos brindados, yo extraje a mano aquellos que quería utilizar para el desarrollo del Trabajo Práctico, y los inserté de la siguiente manera:
 
 - Día
 - Tiempo Total: uso total del celular por día, tiempo en minutos
@@ -36,4 +36,4 @@ La recolección de datos se obtuvo a partir de una aplicación propia de un Ipho
 
 **Puntos a analizar y mostrar**
 
-Se quiere realizar un análisis de la cantidad de tiempo que utilizo el celular por día, pudiendo ver así cómo varía semana a semana. También, poder mostrar el tiempo que paso en las aplicaciones que más utiliza y cómo se relaciona el uso de las diferentes aplicaciones con el tiempo total que uso el celular. 
+Se quiere realizar un análisis de la cantidad de tiempo que utilizo el celular por día, pudiendo ver así cómo varía semana a semana. También, poder mostrar el tiempo que paso en las aplicaciones que más utilizo y cómo se relaciona el uso de las diferentes aplicaciones con el tiempo total de uso. 
