@@ -47,5 +47,5 @@ Para la presentación del trabajo, en Tableau realicé: TreeMaps, Pie Charts, Ba
 
 Hice un dashboard con cada gráfico, y una vez que los terminé decidí ponerlos todos en un story. Entonces, subí dicho story a Tableau Public y de ahí embebí el código brindado.
 
-Previo a embeber el código, yo ya había creado un archivo.html para poder visualizar dicho HTML una vez finalizado, insertando el nombre del mismo en el link que lleva mi nombre.github, seguido de dónde se encuentra dicho archivo. Mi link al HTML: *sofiaweintraub.github.io/pdata/UsoDelCelular.html*
+Previo a embeber el código, yo ya había creado un archivo.html para poder visualizar dicho HTML una vez finalizado, insertando el nombre del mismo en el link que lleva mi nombre.github, seguido de dónde se encuentra dicho archivo. Mi link al HTML: *sofiaweintraub.github.io/pdata/visualizacion.html*
 
