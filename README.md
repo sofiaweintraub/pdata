@@ -5,7 +5,7 @@
 
 **Título**
 
-Uso del celular por día
+Uso del celular
 
 ##
 
