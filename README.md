@@ -5,13 +5,13 @@
 
 **Título**
 
-Uso del celular
+Uso del Celular
 
 ##
 
 **Presentación del Tema**
 
-El tema elegido y que voy a presentar en el día de la fecha consiste en poder mostrar cuánto uso el celular por día, a lo largo de tres semanas.
+El tema elegido y que voy a presentar en el día de la fecha consiste en poder mostrar cuánto uso el celular y cómo varía el uso en las diferentes aplicaciones, a lo largo de tres semanas.
 
 ##
 
