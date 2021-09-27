@@ -43,7 +43,8 @@ A modo de ejemplo, el siguiente gráfico:
 ## 
 
 **¿Cómo realicé la presentación?**
-Para la presentación del trabajo, en Tableau realicé: TreeMaps, Pie Charts, Bar Charts y Line Charts. 
+
+Para la presentación del trabajo utilicé Tableau, programa en el cual realicé: TreeMaps, Pie Charts, Bar Charts y Line Charts. 
 
 Hice un dashboard con cada gráfico, y una vez que los terminé decidí ponerlos todos en un story. Entonces, subí dicho story a Tableau Public y de ahí embebí el código brindado.
 
